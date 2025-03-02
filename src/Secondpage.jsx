@@ -3,6 +3,10 @@ export default function Secondpage(props){
         <form>
           <select>
             <option></option>
+            <option></option>
+            <option></option>
+            <option></option>
+            <option></option>
           </select>
         </form>
     )
