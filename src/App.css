@@ -30,6 +30,7 @@ nav{
   background-color: gray;
   margin: 40px;
   padding: 20px 0;
+  border-radius: 5px;
 }
 
 .info-data {
@@ -40,3 +41,21 @@ nav{
 .data-label{
   margin-left: 110px;
 }
+.buttton-container{
+  width: 30%;
+  margin: 3px auto;
+  display: flex;
+  justify-content: space-between;
+}
+.buttton-container button{
+  width: 40%;
+  padding: 2px;
+}
+.output-container{
+  width: 30%;
+  background-color: gray;
+  margin: 40px;
+  padding: 20px 0;
+  border-radius: 5px;
+}
+
